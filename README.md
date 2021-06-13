@@ -7,3 +7,5 @@
 ## Usage
   ```make start``` to build files and run main.ml\
   ```make test``` to run OUnit test suite
+  
+  if first time using, run ```make config``` to set up configuration variables (API keys, and algorithmic trading parameters).
